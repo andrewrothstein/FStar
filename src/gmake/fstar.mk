@@ -8,5 +8,7 @@ ifdef Z3
 OTHERFLAGS+=--smt $(Z3)
 endif
 
+OTHERFLAGS+=--use_two_phase_tc true
+
 FSTAR_ALWAYS=$(shell cd $(FSTAR_HOME) && pwd)/bin/fstar.exe $(OTHERFLAGS) $(HINTS_ENABLED)
 FSTAR=$(FSTAR_ALWAYS)
