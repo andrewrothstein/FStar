@@ -4760,15 +4760,12 @@ and ghost_to_pure_aux:
                steps =
                  [Eager_unfolding;
                  UnfoldUntil FStar_Syntax_Syntax.Delta_constant;
-                 AllowUnboundUniverses;
-                 EraseUniverses];
+                 AllowUnboundUniverses];
                tcenv = (uu___141_16997.tcenv);
-               delta_level =
-                 [FStar_TypeChecker_Env.Unfold
-                    FStar_Syntax_Syntax.Delta_constant];
+               delta_level = (uu___141_16997.delta_level);
                primitive_steps = (uu___141_16997.primitive_steps);
                strong = (uu___141_16997.strong);
-               memoize_lazy = false
+               memoize_lazy = (uu___141_16997.memoize_lazy)
              }) env [] t in
         let non_info t =
           let uu____17002 = norm1 t in
