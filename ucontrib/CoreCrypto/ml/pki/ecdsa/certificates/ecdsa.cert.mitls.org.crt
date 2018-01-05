@@ -5,18 +5,18 @@ Certificate:
         Signature Algorithm: ecdsa-with-SHA1
         Issuer: C=CC, ST=State, L=Location, O=Organization, CN=ecdsa.mitls.org/emailAddress=root@mitls.org
         Validity
-            Not Before: Mar 24 22:50:51 2017 GMT
-            Not After : Jun 10 22:50:51 2025 GMT
+            Not Before: Jan  5 10:12:08 2018 GMT
+            Not After : Mar 24 10:12:08 2026 GMT
         Subject: C=CC, ST=State, O=Organization, CN=ecdsa.cert.mitls.org/emailAddress=root@mitls.org
         Subject Public Key Info:
             Public Key Algorithm: id-ecPublicKey
             EC Public Key:
                 pub: 
-                    04:f9:0d:50:c1:92:2e:61:ab:3f:89:b2:73:46:b7:
-                    b5:a1:a7:68:8e:f9:84:02:1e:7c:c9:10:55:73:c5:
-                    6e:82:77:7d:8d:80:cb:78:32:cb:7b:29:95:6b:0b:
-                    e8:64:6d:8a:9c:c8:15:19:a5:2f:9a:a0:15:61:83:
-                    94:0f:de:d8:d1
+                    04:8b:a6:c2:47:25:4a:e7:1f:b0:99:56:c7:a4:12:
+                    c3:21:90:3e:76:7f:d9:2a:7a:88:79:dd:7f:8b:f8:
+                    8a:80:30:cc:a8:dc:87:a1:7f:46:67:3a:a8:af:dc:
+                    12:2b:a8:c3:d2:99:4f:3f:26:97:b0:43:a4:37:d8:
+                    b4:4c:fe:de:fd
                 ASN1 OID: prime256v1
         X509v3 extensions:
             X509v3 Key Usage: 
@@ -26,21 +26,21 @@ Certificate:
             Netscape Comment: 
                 OpenSSL Generated Certificate
     Signature Algorithm: ecdsa-with-SHA1
-        30:45:02:21:00:eb:91:81:98:af:80:35:3d:cb:30:7d:be:68:
-        5e:13:2c:72:ee:ae:38:db:88:13:45:0b:61:cb:f8:3f:5e:5e:
-        06:02:20:53:0a:62:52:5e:a8:7e:db:76:07:92:40:1b:2e:46:
-        49:47:ad:3a:0a:66:0a:af:2f:98:05:29:d4:c5:98:7b:e0
+        30:45:02:21:00:b3:e7:ac:92:83:7b:33:dd:6b:83:b2:29:0f:
+        52:c1:82:24:bc:e4:01:6a:a4:b1:7c:43:a4:29:46:8b:37:d0:
+        e8:02:20:2b:3a:db:e6:52:a0:ff:ee:59:37:84:8d:99:38:06:
+        16:f5:45:b5:ea:ac:9c:a3:2b:28:f4:4f:2a:52:e9:01:e9
 -----BEGIN CERTIFICATE-----
 MIICKDCCAc+gAwIBAgIBATAJBgcqhkjOPQQBMIGAMQswCQYDVQQGEwJDQzEOMAwG
 A1UECAwFU3RhdGUxETAPBgNVBAcMCExvY2F0aW9uMRUwEwYDVQQKDAxPcmdhbml6
 YXRpb24xGDAWBgNVBAMMD2VjZHNhLm1pdGxzLm9yZzEdMBsGCSqGSIb3DQEJARYO
-cm9vdEBtaXRscy5vcmcwHhcNMTcwMzI0MjI1MDUxWhcNMjUwNjEwMjI1MDUxWjBy
+cm9vdEBtaXRscy5vcmcwHhcNMTgwMTA1MTAxMjA4WhcNMjYwMzI0MTAxMjA4WjBy
 MQswCQYDVQQGEwJDQzEOMAwGA1UECAwFU3RhdGUxFTATBgNVBAoMDE9yZ2FuaXph
 dGlvbjEdMBsGA1UEAwwUZWNkc2EuY2VydC5taXRscy5vcmcxHTAbBgkqhkiG9w0B
-CQEWDnJvb3RAbWl0bHMub3JnMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE+Q1Q
-wZIuYas/ibJzRre1oadojvmEAh58yRBVc8Vugnd9jYDLeDLLeymVawvoZG2KnMgV
-GaUvmqAVYYOUD97Y0aNIMEYwCwYDVR0PBAQDAgXgMAkGA1UdEwQCMAAwLAYJYIZI
+CQEWDnJvb3RAbWl0bHMub3JnMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEi6bC
+RyVK5x+wmVbHpBLDIZA+dn/ZKnqIed1/i/iKgDDMqNyHoX9GZzqor9wSK6jD0plP
+PyaXsEOkN9i0TP7e/aNIMEYwCwYDVR0PBAQDAgXgMAkGA1UdEwQCMAAwLAYJYIZI
 AYb4QgENBB8WHU9wZW5TU0wgR2VuZXJhdGVkIENlcnRpZmljYXRlMAkGByqGSM49
-BAEDSAAwRQIhAOuRgZivgDU9yzB9vmheEyxy7q4424gTRQthy/g/Xl4GAiBTCmJS
-Xqh+23YHkkAbLkZJR606CmYKry+YBSnUxZh74A==
+BAEDSAAwRQIhALPnrJKDezPda4OyKQ9SwYIkvOQBaqSxfEOkKUaLN9DoAiArOtvm
+UqD/7lk3hI2ZOAYW9UW16qycoyso9E8qUukB6Q==
 -----END CERTIFICATE-----
